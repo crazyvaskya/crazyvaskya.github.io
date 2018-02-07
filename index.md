@@ -6,4 +6,6 @@ Ololo
 
 ## Hello on my site
 
-[Yeee boiii](ya.ru)
+[Yeee boiii](https://ya.ru)
+
+[404](404.md)
