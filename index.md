@@ -1,11 +1,6 @@
-# Hello World
+## My repositories
+
+[Schedule bot](https://github.com/uburuntu/schedule_bot)
 
 ---
 
-Ololo
-
-## Hello on my site
-
-[Yeee boiii](https://ya.ru)
-
-[404](404.md)
