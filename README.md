@@ -1,1 +1,1 @@
-# [a link](crazyvaskya.github.io)
+# [crazyvaskya.github.io](crazyvaskya.github.io)
