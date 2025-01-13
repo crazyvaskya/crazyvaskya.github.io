@@ -6,8 +6,8 @@
 
 ## Охеревший список (скорее для себя или для подарков большими компаниями)
 * Друзей рядом......
-* XReal [One Pro](https://www.xreal.com/us/one-pro/) или Xreal [Air 2 Pro](https://www.xreal.com/us/air2)
 * Seam Deck OLED
+* XReal [One Pro](https://www.xreal.com/us/one-pro/) или Xreal [Air 2 Pro](https://www.xreal.com/us/air2)
 * Часы гармин со встроенным тренером.
 * Я бы хотел научиться играть на каком-то музыкальном инструменте, но никак не могу себя заставить, поэтому можно курс обучения игры на гитаре/фортепиано/барабанах
 
